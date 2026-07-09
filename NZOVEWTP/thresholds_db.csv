@@ -1,0 +1,11 @@
+branch,threshold_key,threshold_value
+NZOVE,pH_min,6.5
+NZOVE,pH_max,8.5
+NZOVE,Turbidity_max,5.0
+NZOVE,Efficiency_min,75.0
+NZOVE,Non_Revenue_Pct,10.0
+NZOVE,Base_Cost,768.0
+NZOVE,Price_Lime,480.0
+NZOVE,Price_FL4440,2500.0
+NZOVE,Price_NaCl,300.0
+NZOVE,Price_Electricity,148.0

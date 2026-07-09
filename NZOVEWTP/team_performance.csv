@@ -1,0 +1,3 @@
+date,branch,team_type,team_leader,shift,raw_water,treated_water,backwashing,non_revenue_pct,revenue_water,expense,revenue,efficiency,quality_score,recorded_by,team_comment
+2026-07-04,NZOVE,A,ss,Day,50000.0,45000.0,2000.0,10.0,38500.0,3272792.0,29568000.0,90.0,100,Jacques,
+2026-07-04,NZOVE,B,kk,Night,58000.0,56200.0,2800.0,10.0,47780.0,4439868.0,36695040.0,96.89655172413794,100,Jacques,

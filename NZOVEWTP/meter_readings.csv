@@ -1,0 +1,31 @@
+reading_date,branch,meter_type,meter_name,reading_value,recorded_by,recorded_time
+2026-07-04,NZOVE,raw_water,Meter 2,10000.0,Jacques,2026-07-04 06:59:01
+2026-07-04,NZOVE,raw_water,Meter 3,10000.0,Jacques,2026-07-04 06:59:01
+2026-07-04,NZOVE,raw_water,Meter 1,10000.0,Jacques,2026-07-04 06:59:01
+2026-07-04,NZOVE,treated_water,Meter 1,9000.0,Jacques,2026-07-04 06:59:01
+2026-07-04,NZOVE,treated_water,Meter 2,9000.0,Jacques,2026-07-04 06:59:01
+2026-07-04,NZOVE,treated_water,Meter 3,9000.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,treated_water,Meter 4,9000.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,treated_water,Meter 5,9000.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,backwashing,Backwash Meter 1,1000.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,backwashing,Backwash Meter 2,1000.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,electricity,Meter 1,1234.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,electricity,Meter 2,1234.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,electricity,Meter 3,1234.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,electricity,Meter 4,1234.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,electricity,Meter 5,1234.0,Jacques,2026-07-04 06:59:02
+2026-07-04,NZOVE,raw_water,Meter 2,21000.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,raw_water,Meter 3,22000.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,raw_water,Meter 1,27000.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,treated_water,Meter 1,20000.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,treated_water,Meter 2,19200.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,treated_water,Meter 3,21000.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,treated_water,Meter 4,20000.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,treated_water,Meter 5,20000.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,backwashing,Backwash Meter 1,2300.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,backwashing,Backwash Meter 2,2500.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,electricity,Meter 1,2548.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,electricity,Meter 2,2468.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,electricity,Meter 3,2511.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,electricity,Meter 4,2346.0,Jacques,2026-07-04 07:13:56
+2026-07-04,NZOVE,electricity,Meter 5,2468.0,Jacques,2026-07-04 07:13:56
